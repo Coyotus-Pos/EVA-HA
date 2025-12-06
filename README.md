@@ -1,4 +1,5 @@
 <div align="center">
+Trabajo en proceso, adaptacion y traduccion al español para mi uso personal y del que guste ocuparlo. Basado en el trabajo original de https://github.com/RealDeco .
 
 # XIAOZHI-ESPHOME
 
